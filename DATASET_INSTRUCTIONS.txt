@@ -1,0 +1,3 @@
+Download netflix_titles.csv from:
+https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2021/2021-04-20/netflix_titles.csv
+Save it in this folder as netflix_titles.csv, then follow README.md.

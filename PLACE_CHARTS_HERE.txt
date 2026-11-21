@@ -1,0 +1,1 @@
+Charts are generated here when src/netflix_eda.py is run.
